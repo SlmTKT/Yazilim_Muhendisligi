@@ -20,11 +20,14 @@ python main.py
 Aşağıda projede yer alan iki geliştiricinin bilgileri yer almaktadır:
 
 ### 1. Geliştirici
+
 - **İsim:** Selimhan Tokat
 - **Öğrenci No:** 22253531
 - Yeni Kodu çekerken IDE arayüzünden çektim o yüzden terminalden çekmedim.
 - Terminalden çekmek için `git pull` komutunu kullanabilirdim.
 
 ### 2. Geliştirici
+
 - **İsim:** Şeyda Bozdağ
 - **Öğrenci No:** 22253530
+- İlk defa bir çakışmayla karşılaştım. Çözümü için VSCode içinde bulunan merge-resolver tool'unu kullandım.
